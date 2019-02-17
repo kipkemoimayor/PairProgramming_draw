@@ -20,12 +20,16 @@ p{
   color: white;
 
 }
-textarea{
+.textarea{
   margin: auto;
   width: 80%;
-  margin-left: 120px;
   background-color: white;
 
+}
+.textarea textarea{
+  width: 100%;
+  height: auto;
+  background-color: inherit;
 }
 footer{
   text-align: center;
