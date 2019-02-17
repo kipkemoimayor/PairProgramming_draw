@@ -1,7 +1,7 @@
 function pair(){
-var arrEmpt=["collins","etyang","clive","felix","komar","kerry","norman","mcKanzi","ian","kerr","vwan","khat","mai","owa","mali","wawie"];
+var arrEmpt=["collins","november","etyang","clive","felix","komar","kerry","norman","mcKanzi","ian","kerr","vwan","khat","mai","owa","mali","wawie","kawie"];
 var output="";
-for(i=0;i<8;i++){
+for(i=0;i<9;i++){
 var randomW=Math.floor(Math.random()*arrEmpt.length);
 arrEmpt[randomW];
 var pairOne=arrEmpt.splice(randomW,1)
