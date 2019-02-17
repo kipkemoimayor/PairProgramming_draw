@@ -1,0 +1,38 @@
+*{
+
+
+}
+h1,h2{
+  margin: 0;
+  text-align: center;
+
+}
+p{
+  margin: auto;
+  padding: 10px;
+  text-transform: capitalize;
+  border: 1px solid blue;
+  text-align: center;
+  border-width: thick;
+  border-radius: 50px;
+  background-color: #784;
+  width: 70%;
+  color: white;
+
+}
+textarea{
+  margin: auto;
+  width: 80%;
+  margin-left: 120px;
+  background-color: white;
+
+}
+footer{
+  text-align: center;
+  margin: 0;
+  position: fixed;
+  z-index: 99;
+  bottom: 0;
+  color: #982;
+  width: 100%;
+}
