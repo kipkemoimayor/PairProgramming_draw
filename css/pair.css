@@ -18,9 +18,20 @@ p{
   border-radius: 50px;
   background-color: #784;
   width: 70%;
-  color: white;
+  color: #032148;
+  font-size: 20px;
+
+
+
 
 }
+.show{
+  display: none;
+}
+/*button{
+  position: relative;
+  left: 800px;
+}*/
 .textarea{
   margin: auto;
   width: 80%;
